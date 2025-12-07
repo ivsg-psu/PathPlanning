@@ -286,6 +286,15 @@ algorithm, A-star, constrained A-star, RRTs, and potential fields.
      The grid-free implementation of the Greedy algorithm. By changing settings, can implement the Djkstra algorithm.
     </li>
     <li>
+      <a href="https://github.com/ivsg-psu/PathPlanning_GridFreePathPlanners_BoundedAStar">
+      PathPlanning_GridFreePathPlanners_BoundedAStar
+      <br>
+      <!--img src="Images/PathPlanning_GridFreePlanners_Greedy.jpg" alt="Bounded A-Star repo" height="200" width="200" -->
+      </a>
+      <br>
+     The grid-free implementation of the Bounded A-star algorithm.
+    </li>
+    <li>
       <a href="https://github.com/ivsg-psu/PathPlanning_GridFreePathPlanners_GridFreePathPlanLibrary/wiki">
       PathPlanning_GridFreePathPlanners_GridFreePathPlanLibrary
       <br>
