@@ -1,10 +1,10 @@
 # Path Planning
 
-<img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_cropped.jpg" alt="Path Planning" width="1280" height="377">
+<img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_cropped.jpg" alt="Path Planning" width="1280" height="377">
 
 Welcome to the path-planning work for the team. Code in this area spans topics from geometric methods for maps, to kinematics, to map creation and path planning, path manipulation and averaging, and path navigation with rapid replanning.
 
-<img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_org.png" alt="Path Planning" width="1280" height="150">
+<img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_org.png" alt="Path Planning Org Chart" width="1280" height="150">
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -75,7 +75,7 @@ circles, etc.
       <a href="https://github.com/ivsg-psu/PathPlanning_GeomTools_GeomClassLibrary/wiki">
       The Geometry Class Library
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GeomTools_GeomClassLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GeomTools_GeomClassLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This includes many of the core functions for calculating path geometry, including most of the functions below.
@@ -84,7 +84,7 @@ circles, etc.
       <a href="https://github.com/ivsg-psu/PathPlanning_GeomTools_3DGeomClassLibrary/wiki">
       PathPlanning_GeomTools_3DGeomClassLibrary - The 3D Geometry Class Library
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GeomTools_3DGeomClassLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GeomTools_3DGeomClassLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This includes core functions for calculating 3D geometric features such as intersections of segments with plane patches.
@@ -93,7 +93,7 @@ circles, etc.
       <a href= "https://github.com/ivsg-psu/PathPlanning_GeomTools_AlignCoordinates">
       PathPlanning_GeomTools_AlignCoordinates - Regression methods to align coordinate systems to each other
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GeomTools_AlignCoordinates.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GeomTools_AlignCoordinates.jpg" height="200" width="200" >
       </a>
       <br>
       This repo methods that use regression fitting to determine correspondence between two different coordinate systems.
@@ -157,7 +157,7 @@ These are functions that determine the fastest velocity that can be achieved in 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathKinematics_PathKinematicsClass/wiki">
       PathPlanning_PathKinematics_PathKinematicsClass
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathKinematics_PathKinematicsClass.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathKinematics_PathKinematicsClass.jpg" height="200" width="200" >
       </a>
       <br>
       This repo hosts the class library for path kinematics, which includes most of the functions listed below in class format.
@@ -230,7 +230,7 @@ This includes map generation, map visibility calculations to plan paths, path co
       <a href="https://github.com/ivsg-psu/PathPlanning_MapTools_MapGenClassLibrary/wiki">
       PathPlanning_MapTools_MapGenClassLibrary
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_MapTools_MapGenClassLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_MapTools_MapGenClassLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This repo functions used to generate obstacle field maps via polytopes in a mesh-free representation.
@@ -246,7 +246,7 @@ This includes map generation, map visibility calculations to plan paths, path co
       <a href="https://github.com/ivsg-psu/PathPlanning_MapTools_VisibilityCalculations_VisibilityTesting/wiki">
       PathPlanning_MapTools_VisibilityCalculations_VisibilityTesting
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_MapTools_MapGenClassLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_MapTools_MapGenClassLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This repo tests visibility calculations and functions.
@@ -271,7 +271,7 @@ algorithm, A-star, constrained A-star, RRTs, and potential fields.
       <a href="https://github.com/ivsg-psu/PathPlanning_GridFreePathPlanners_VisibilityGraph">
       PathPlanning_GridFreePathPlanners_VisibilityGraph
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GridFreePathPlanners_VisibilityGraph.png" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GridFreePathPlanners_VisibilityGraph.png" height="200" width="200" >
       </a>
       <br>
       Tools to calculate the visibility graph for a grid-free map of polytopes.
@@ -280,7 +280,7 @@ algorithm, A-star, constrained A-star, RRTs, and potential fields.
       <a href="https://github.com/ivsg-psu/PathPlanning_GridFreePathPlanners_GridFreePathPlanLibrary/wiki">
       PathPlanning_GridFreePathPlanners_GridFreePathPlanLibrary
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GridFreePathPlanners_GridFreePathPlanLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GridFreePathPlanners_GridFreePathPlanLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This is the GridFree path plan class library listing all functions within this class. It includes many of the functions listed below including
@@ -290,7 +290,7 @@ algorithm, A-star, constrained A-star, RRTs, and potential fields.
       <a href="https://github.com/ivsg-psu/PathPlanning_GridFreePathPlanners_HighSpeedSteadyState">
       PathPlanning_GridFreePathPlanners_HighSpeedSteadyState
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GridFreePathPlanners_HighSpeedSteadyState.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GridFreePathPlanners_HighSpeedSteadyState.jpg" height="200" width="200" >
       </a>
       <br>
       This is the grid-free path planning codes that convert point-to-point paths into high-speed paths assuming steady-state high-speed dynamics (e.g. constant acceleration). This is the main repo for Michael Pagan's work.
@@ -314,7 +314,7 @@ This includes path planning algorithms that use an occupancy grid, e.g. grid-bas
       <a href="https://github.com/ivsg-psu/PathPlanning_GridBasedPathPlanners_GridBasedPathPlanLibrary/wiki">
       PathPlanning_GridBasedPathPlanners_GridBasedPathPlanLibrary
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_GridBasedPathPlanners_GridBasedPathPlanLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_GridBasedPathPlanners_GridBasedPathPlanLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This is the GridFree path plan class library listing all functions within this class. It includes many of the functions listed below including
@@ -339,7 +339,7 @@ These are functions that operate on paths after they are generated, for example 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathTools_PathClassLibrary/wiki">
       PathPlanning_PathTools_PathClassLibrary
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathClassLibrary.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathClassLibrary.jpg" height="200" width="200" >
       </a>
       <br>
       This is the Path class library and listing of all functions within this class. It includes many of the functions listed below including
@@ -349,7 +349,7 @@ These are functions that operate on paths after they are generated, for example 
       <a href="https://github.com/ivsg-psu/PathPlanning_GeomTools_CalcParallelCurves/wiki">
       PathPlanning_GeomTools_CalcParallelCurves
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathTools_CalcParallelCurves.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathTools_CalcParallelCurves.jpg" height="200" width="200" >
       </a>
       <br>
       This is a function that calculates parallel curves to a given curve in 2D or 3D, for example the inner and outer parallel curves to a 2D curve.
@@ -361,7 +361,7 @@ These are functions that operate on paths after they are generated, for example 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathTools_SnapQueryPointToPath/wiki">
       PathPlanning_PathTools_SnapQueryPointToPath
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathTools_SnapQueryPointToPath.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathTools_SnapQueryPointToPath.jpg" height="200" width="200" >
       </a>
       <br>
       This is a repo for the function: fcn_pathtools_snap_point_onto_path. This finds the location on a path that is closest to a given point, e.g.
@@ -371,7 +371,7 @@ These are functions that operate on paths after they are generated, for example 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathTools_FindPathSXYSegmentContainingGivenSBounds/wiki">
       PathPlanning_PathTools_FindPathSXYSegmentContainingGivenSBounds
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathTools_FindPathSXYSegmentContainingGivenSBounds.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathTools_FindPathSXYSegmentContainingGivenSBounds.jpg" height="200" width="200" >
       </a>
       <br>
       This is a repo for the function: fcn_pathtools_FindPathSegmentWithinSBounds. This function finds a portion of a SXY-type path that contains the
@@ -381,7 +381,7 @@ These are functions that operate on paths after they are generated, for example 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathTools_GetUserInputPath/wiki">
       PathPlanning_PathTools_GetUserInputPath
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathTools_GetUserInputPath.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathTools_GetUserInputPath.jpg" height="200" width="200" >
       </a>
       <br>
       This is a repo for the function: fcn_pathtools_getUserInputPath.m A function for the user to click on the figure to generate XY path until the user
@@ -391,7 +391,7 @@ These are functions that operate on paths after they are generated, for example 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathTools_PlotPath/wiki">
       PathPlanning_PathTools_PlotPath
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathTools_PlotPath.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathTools_PlotPath.jpg" height="200" width="200" >
       </a>
       <br>
       This is a repo for the function: fcn_pathtools_getUserInputPath.m .  This is a function that plots either XY or SXY type paths.
@@ -419,7 +419,7 @@ These are functions that - given a path - determine distortions around the path 
       <a href="https://github.com/ivsg-psu/PathPlanning_PathNavigation_PathNavClassLibrary/wiki">
       PathPlanning_PathNavigation_PathNavClassLibrary
       <br>
-      <img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_PathNavigation_PathNavClass.jpg" height="200" width="200" >
+      <img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_PathNavigation_PathNavClass.jpg" height="200" width="200" >
       </a>
       <br>
       This is the Path Navigation class library and listing of all functions within this class. (In development)
@@ -444,7 +444,7 @@ This includes common tips and tricks such as plotting utilities for paths, geome
 
 Here's a quick example of MATLAB method to plot the color of an XY plot using data to represent the change in color. This is useful to plot velocity or fuel usage versus XY position:
 
-<img src="https://github.com/ivsg-psu/ivsg_master/blob/master/images/PathPlanning_TipsAndTricks_ExampleColorBar.png" height="400" width="600" >  
+<img src="https://github.com/ivsg-psu/PathPlanning/images/PathPlanning_TipsAndTricks_ExampleColorBar.png" height="400" width="600" >  
 
 ``` Matlab
 max_colorbar = 1;
